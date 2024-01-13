@@ -2079,3 +2079,280 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.01.13-19.54.07:745][553]AssetCheck: New page: Asset Save: multiple assets
 [2024.01.13-19.54.07:745][553]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MainMap_BuiltData.MainMap_BuiltData
 [2024.01.13-19.54.07:745][553]LogContentValidation: Display: Validating World /Game/MainMap.MainMap
+[2024.01.13-19.55.36:132][288]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/AdamIdleAnim/AdamIdleAnim.AdamIdleAnim
+[2024.01.13-19.59.52:833][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AdamIdleAnim/AdamIdleAnim" FILE="E:/Course/DormCourseWork/DormPlatformer/Content/Characters/AdamIdleAnim/AdamIdleAnim.uasset" SILENT=true
+[2024.01.13-19.59.52:836][838]LogSavePackage: Moving 'E:/Course/DormCourseWork/DormPlatformer/Saved/AdamIdleAnim0AEF5B8B462D3089488913A2523B86E7.tmp' to 'E:/Course/DormCourseWork/DormPlatformer/Content/Characters/AdamIdleAnim/AdamIdleAnim.uasset'
+[2024.01.13-19.59.52:845][838]AssetCheck: New page: Asset Save: AdamIdleAnim
+[2024.01.13-19.59.52:845][838]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/AdamIdleAnim/AdamIdleAnim.AdamIdleAnim
+[2024.01.13-19.59.53:701][938]LogSlate: Window 'AdamIdleAnim' being destroyed
+[2024.01.13-19.59.53:704][938]LogSlate: Window 'AdamIdleAnim' being destroyed
+[2024.01.13-19.59.53:753][938]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.01.13-19.59.53:753][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-20.00.03:632][101]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/AlexIdleAnim/AlexIdleAnim.AlexIdleAnim
+[2024.01.13-20.00.12:951][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AlexIdleAnim/AlexIdleAnim" FILE="E:/Course/DormCourseWork/DormPlatformer/Content/Characters/AlexIdleAnim/AlexIdleAnim.uasset" SILENT=true
+[2024.01.13-20.00.12:953][201]LogSavePackage: Moving 'E:/Course/DormCourseWork/DormPlatformer/Saved/AlexIdleAnimBF061CD24A8A8F80EE43ECA1290669A5.tmp' to 'E:/Course/DormCourseWork/DormPlatformer/Content/Characters/AlexIdleAnim/AlexIdleAnim.uasset'
+[2024.01.13-20.00.12:962][201]AssetCheck: New page: Asset Save: AlexIdleAnim
+[2024.01.13-20.00.12:962][201]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/AlexIdleAnim/AlexIdleAnim.AlexIdleAnim
+[2024.01.13-20.00.13:816][299]LogSlate: Window 'AlexIdleAnim' being destroyed
+[2024.01.13-20.00.13:820][299]LogSlate: Window 'AlexIdleAnim' being destroyed
+[2024.01.13-20.00.13:843][299]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.01.13-20.00.13:843][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-20.00.16:347][585]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/AmeliaIdleAnim/AmeliaIdleAnim.AmeliaIdleAnim
+[2024.01.13-20.00.23:745][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AmeliaIdleAnim/AmeliaIdleAnim" FILE="E:/Course/DormCourseWork/DormPlatformer/Content/Characters/AmeliaIdleAnim/AmeliaIdleAnim.uasset" SILENT=true
+[2024.01.13-20.00.23:747][445]LogSavePackage: Moving 'E:/Course/DormCourseWork/DormPlatformer/Saved/AmeliaIdleAnimA439B659410A219F9F0D009AEF5D7F30.tmp' to 'E:/Course/DormCourseWork/DormPlatformer/Content/Characters/AmeliaIdleAnim/AmeliaIdleAnim.uasset'
+[2024.01.13-20.00.23:755][445]AssetCheck: New page: Asset Save: AmeliaIdleAnim
+[2024.01.13-20.00.23:755][445]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/AmeliaIdleAnim/AmeliaIdleAnim.AmeliaIdleAnim
+[2024.01.13-20.00.24:765][562]LogSlate: Window 'AmeliaIdleAnim' being destroyed
+[2024.01.13-20.00.24:769][562]LogSlate: Window 'AmeliaIdleAnim' being destroyed
+[2024.01.13-20.00.24:813][562]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.01.13-20.00.24:813][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-20.00.26:881][794]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/BobIdleAnim/BobIdleAnim.BobIdleAnim
+[2024.01.13-20.00.31:809][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BobIdleAnim/BobIdleAnim" FILE="E:/Course/DormCourseWork/DormPlatformer/Content/Characters/BobIdleAnim/BobIdleAnim.uasset" SILENT=true
+[2024.01.13-20.00.31:811][361]LogSavePackage: Moving 'E:/Course/DormCourseWork/DormPlatformer/Saved/BobIdleAnim4C17ED774380B3601ECB8896DC0FAB51.tmp' to 'E:/Course/DormCourseWork/DormPlatformer/Content/Characters/BobIdleAnim/BobIdleAnim.uasset'
+[2024.01.13-20.00.31:820][361]AssetCheck: New page: Asset Save: BobIdleAnim
+[2024.01.13-20.00.31:820][361]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/BobIdleAnim/BobIdleAnim.BobIdleAnim
+[2024.01.13-20.00.33:426][551]LogSlate: Window 'BobIdleAnim' being destroyed
+[2024.01.13-20.00.33:429][551]LogSlate: Window 'BobIdleAnim' being destroyed
+[2024.01.13-20.00.33:453][551]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.01.13-20.00.33:453][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-20.01.05:667][409]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/BobIdleAnim/BobIdleAnim.BobIdleAnim
+[2024.01.13-20.01.12:877][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BobIdleAnim/BobIdleAnim" FILE="E:/Course/DormCourseWork/DormPlatformer/Content/Characters/BobIdleAnim/BobIdleAnim.uasset" SILENT=true
+[2024.01.13-20.01.12:879][248]LogSavePackage: Moving 'E:/Course/DormCourseWork/DormPlatformer/Saved/BobIdleAnim690D5A724550C26F30F039BC27ACF195.tmp' to 'E:/Course/DormCourseWork/DormPlatformer/Content/Characters/BobIdleAnim/BobIdleAnim.uasset'
+[2024.01.13-20.01.12:887][248]AssetCheck: New page: Asset Save: BobIdleAnim
+[2024.01.13-20.01.12:887][248]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/BobIdleAnim/BobIdleAnim.BobIdleAnim
+[2024.01.13-20.01.14:498][438]LogSlate: Window 'BobIdleAnim' being destroyed
+[2024.01.13-20.01.14:501][438]LogSlate: Window 'BobIdleAnim' being destroyed
+[2024.01.13-20.01.14:533][438]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.01.13-20.01.14:533][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-20.01.16:866][703]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/AmeliaIdleAnim/AmeliaIdleAnim.AmeliaIdleAnim
+[2024.01.13-20.01.23:574][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AmeliaIdleAnim/AmeliaIdleAnim" FILE="E:/Course/DormCourseWork/DormPlatformer/Content/Characters/AmeliaIdleAnim/AmeliaIdleAnim.uasset" SILENT=true
+[2024.01.13-20.01.23:576][449]LogSavePackage: Moving 'E:/Course/DormCourseWork/DormPlatformer/Saved/AmeliaIdleAnimA7CF51054203E16647DFCE85B64A5383.tmp' to 'E:/Course/DormCourseWork/DormPlatformer/Content/Characters/AmeliaIdleAnim/AmeliaIdleAnim.uasset'
+[2024.01.13-20.01.23:584][449]AssetCheck: New page: Asset Save: AmeliaIdleAnim
+[2024.01.13-20.01.23:584][449]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/AmeliaIdleAnim/AmeliaIdleAnim.AmeliaIdleAnim
+[2024.01.13-20.01.24:404][544]LogSlate: Window 'AmeliaIdleAnim' being destroyed
+[2024.01.13-20.01.24:407][544]LogSlate: Window 'AmeliaIdleAnim' being destroyed
+[2024.01.13-20.01.24:433][544]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.01.13-20.01.24:433][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-20.01.26:441][769]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/AlexIdleAnim/AlexIdleAnim.AlexIdleAnim
+[2024.01.13-20.01.36:308][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AlexIdleAnim/AlexIdleAnim" FILE="E:/Course/DormCourseWork/DormPlatformer/Content/Characters/AlexIdleAnim/AlexIdleAnim.uasset" SILENT=true
+[2024.01.13-20.01.36:310][903]LogSavePackage: Moving 'E:/Course/DormCourseWork/DormPlatformer/Saved/AlexIdleAnimCF23F2484E255AD4FE1924B81A3C4DD6.tmp' to 'E:/Course/DormCourseWork/DormPlatformer/Content/Characters/AlexIdleAnim/AlexIdleAnim.uasset'
+[2024.01.13-20.01.36:318][903]AssetCheck: New page: Asset Save: AlexIdleAnim
+[2024.01.13-20.01.36:318][903]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/AlexIdleAnim/AlexIdleAnim.AlexIdleAnim
+[2024.01.13-20.01.37:160][  2]LogSlate: Window 'AlexIdleAnim' being destroyed
+[2024.01.13-20.01.37:163][  2]LogSlate: Window 'AlexIdleAnim' being destroyed
+[2024.01.13-20.01.37:192][  2]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.01.13-20.01.37:193][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-20.01.38:568][164]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.13-20.01.38:573][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.13-20.01.38:573][164]PIE: New page: PIE session: MainMap (14 янв. 2024 г., 10:01:38)
+[2024.01.13-20.01.38:603][164]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2024.01.13-20.01.38:605][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002026s)
+[2024.01.13-20.01.38:606][164]LogAIModule: Creating AISystem for world MainMap
+[2024.01.13-20.01.38:606][164]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2024.01.13-20.01.38:606][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.002936s)
+[2024.01.13-20.01.38:629][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2024.01.13-20.01.38:644][164]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.01.13-20.01.38:644][164]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.13-20.01.38:644][164]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.13-20.01.38:644][164]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.13-20.01.38:644][164]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.13-20.01.38:644][164]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.13-20.01.38:644][164]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.13-20.01.38:644][164]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.13-20.01.38:644][164]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.13-20.01.38:644][164]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.13-20.01.38:644][164]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.13-20.01.38:644][164]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.13-20.01.38:644][164]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.13-20.01.38:649][164]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.13-20.01.38:649][164]LogAudioMixer: Display: 1: FrontRight
+[2024.01.13-20.01.38:658][164]LogAudioMixer: Display: Using Audio Device Динамики (2- fifine Headset)
+[2024.01.13-20.01.38:659][164]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.13-20.01.38:659][164]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.13-20.01.38:659][164]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.13-20.01.38:659][164]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.13-20.01.38:659][164]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.13-20.01.38:659][164]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.13-20.01.38:660][164]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.13-20.01.38:660][164]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.13-20.01.38:660][164]LogInit: FAudioDevice initialized.
+[2024.01.13-20.01.38:660][164]LogAudio: Display: Audio Device (ID: 12) registered with world 'MainMap'.
+[2024.01.13-20.01.38:670][164]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2024.01.13-20.01.38:675][164]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2024.01.14-03.01.38
+[2024.01.13-20.01.38:676][164]LogWorld: Bringing up level for play took: 0.005425
+[2024.01.13-20.01.38:676][164]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2024.01.13-20.01.38:682][164]PIE: Server logged in
+[2024.01.13-20.01.38:683][164]PIE: Play in editor total start time 0,111 seconds.
+[2024.01.13-20.01.50:223][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.13-20.01.50:223][544]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2024.01.13-20.01.50:223][544]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.13-20.01.50:225][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-20.01.50:233][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.13-20.01.50:240][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-20.01.50:254][544]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.13-20.01.50:254][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.13-20.01.50:255][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.13-20.01.50:257][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.13-20.01.50:259][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.01.13-20.01.50:307][546]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.01.13-20.01.51:638][705]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.13-20.01.51:642][705]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.13-20.01.51:643][705]PIE: New page: PIE session: MainMap (14 янв. 2024 г., 10:01:51)
+[2024.01.13-20.01.51:683][705]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2024.01.13-20.01.51:685][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001818s)
+[2024.01.13-20.01.51:685][705]LogAIModule: Creating AISystem for world MainMap
+[2024.01.13-20.01.51:685][705]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2024.01.13-20.01.51:686][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.002746s)
+[2024.01.13-20.01.51:700][705]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.01.13-20.01.51:702][705]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.01.13-20.01.51:702][705]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.13-20.01.51:702][705]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.13-20.01.51:702][705]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.13-20.01.51:702][705]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.13-20.01.51:702][705]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.13-20.01.51:702][705]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.13-20.01.51:702][705]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.13-20.01.51:702][705]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.13-20.01.51:702][705]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.13-20.01.51:702][705]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.13-20.01.51:702][705]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.13-20.01.51:702][705]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.13-20.01.51:706][705]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.13-20.01.51:706][705]LogAudioMixer: Display: 1: FrontRight
+[2024.01.13-20.01.51:715][705]LogAudioMixer: Display: Using Audio Device Динамики (2- fifine Headset)
+[2024.01.13-20.01.51:715][705]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.13-20.01.51:715][705]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.13-20.01.51:715][705]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.13-20.01.51:716][705]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.13-20.01.51:716][705]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.13-20.01.51:716][705]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.13-20.01.51:717][705]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.13-20.01.51:717][705]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.13-20.01.51:717][705]LogInit: FAudioDevice initialized.
+[2024.01.13-20.01.51:717][705]LogAudio: Display: Audio Device (ID: 13) registered with world 'MainMap'.
+[2024.01.13-20.01.51:723][705]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2024.01.13-20.01.51:728][705]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2024.01.14-03.01.51
+[2024.01.13-20.01.51:728][705]LogWorld: Bringing up level for play took: 0.004976
+[2024.01.13-20.01.51:728][705]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2024.01.13-20.01.51:735][705]PIE: Server logged in
+[2024.01.13-20.01.51:735][705]PIE: Play in editor total start time 0,093 seconds.
+[2024.01.13-20.02.06:354][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.13-20.02.06:354][453]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2024.01.13-20.02.06:354][453]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.13-20.02.06:355][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-20.02.06:361][453]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.13-20.02.06:368][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-20.02.06:381][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.13-20.02.06:381][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.13-20.02.06:382][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.13-20.02.06:387][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.01.13-20.02.06:438][455]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.01.13-20.02.07:370][565]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/AlexIdleAnim/AlexIdleAnim.AlexIdleAnim
+[2024.01.13-20.02.16:938][667]LogSlate: Window 'AlexIdleAnim' being destroyed
+[2024.01.13-20.02.16:942][667]LogSlate: Window 'AlexIdleAnim' being destroyed
+[2024.01.13-20.02.16:983][667]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.01.13-20.02.16:983][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-20.02.30:036][181]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/AlexIdleAnim/AlexIdleAnim.AlexIdleAnim
+[2024.01.13-20.02.44:071][843]Cmd: STAT FPS
+[2024.01.13-20.02.46:644][147]Cmd: STAT FPS
+[2024.01.13-20.03.06:402][508]LogSlate: Window 'AlexIdleAnim' being destroyed
+[2024.01.13-20.03.06:406][508]LogSlate: Window 'AlexIdleAnim' being destroyed
+[2024.01.13-20.03.06:433][508]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.01.13-20.03.06:433][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-20.03.11:228][ 54]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/Child_Adam.Child_Adam
+[2024.01.13-20.03.24:443][576]LogSlate: Window 'Child_Adam' being destroyed
+[2024.01.13-20.03.24:447][576]LogSlate: Window 'Child_Adam' being destroyed
+[2024.01.13-20.03.24:483][576]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.01.13-20.03.24:483][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-20.03.26:832][833]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/Parent.Parent
+[2024.01.13-20.03.47:339][ 83]LogSlate: Window 'Parent' being destroyed
+[2024.01.13-20.03.47:343][ 83]LogSlate: Window 'Parent' being destroyed
+[2024.01.13-20.03.47:372][ 83]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.01.13-20.03.47:372][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-20.03.48:239][178]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/Child_Adam.Child_Adam
+[2024.01.13-20.03.51:057][479]LogSlate: Window 'Child_Adam' being destroyed
+[2024.01.13-20.03.51:064][479]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.01.13-20.03.51:064][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-20.03.51:117][479]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/Child_Adam.Child_Adam
+[2024.01.13-20.04.23:658][102]LogSlate: Window 'Child_Adam' being destroyed
+[2024.01.13-20.04.23:662][102]LogSlate: Window 'Child_Adam' being destroyed
+[2024.01.13-20.04.23:703][102]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.01.13-20.04.23:703][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-20.04.55:074][841]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/AdamIdleAnim/AdamIdleAnim.AdamIdleAnim
+[2024.01.13-20.05.16:831][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AdamIdleAnim/AdamIdleAnim" FILE="E:/Course/DormCourseWork/DormPlatformer/Content/Characters/AdamIdleAnim/AdamIdleAnim.uasset" SILENT=true
+[2024.01.13-20.05.16:832][328]LogSavePackage: Moving 'E:/Course/DormCourseWork/DormPlatformer/Saved/AdamIdleAnimD2F25B304F526219B919DE8F7C00078B.tmp' to 'E:/Course/DormCourseWork/DormPlatformer/Content/Characters/AdamIdleAnim/AdamIdleAnim.uasset'
+[2024.01.13-20.05.16:841][328]AssetCheck: New page: Asset Save: AdamIdleAnim
+[2024.01.13-20.05.16:841][328]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/AdamIdleAnim/AdamIdleAnim.AdamIdleAnim
+[2024.01.13-20.05.17:714][431]LogSlate: Window 'AdamIdleAnim' being destroyed
+[2024.01.13-20.05.17:718][431]LogSlate: Window 'AdamIdleAnim' being destroyed
+[2024.01.13-20.05.17:763][431]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.01.13-20.05.17:763][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-20.05.20:795][782]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/AlexIdleAnim/AlexIdleAnim.AlexIdleAnim
+[2024.01.13-20.05.34:305][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AlexIdleAnim/AlexIdleAnim" FILE="E:/Course/DormCourseWork/DormPlatformer/Content/Characters/AlexIdleAnim/AlexIdleAnim.uasset" SILENT=true
+[2024.01.13-20.05.34:306][313]LogSavePackage: Moving 'E:/Course/DormCourseWork/DormPlatformer/Saved/AlexIdleAnim8898D2324E5EC28FCF7F08BDAB2FBCE4.tmp' to 'E:/Course/DormCourseWork/DormPlatformer/Content/Characters/AlexIdleAnim/AlexIdleAnim.uasset'
+[2024.01.13-20.05.34:315][313]AssetCheck: New page: Asset Save: AlexIdleAnim
+[2024.01.13-20.05.34:315][313]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/AlexIdleAnim/AlexIdleAnim.AlexIdleAnim
+[2024.01.13-20.05.35:297][425]LogSlate: Window 'AlexIdleAnim' being destroyed
+[2024.01.13-20.05.35:301][425]LogSlate: Window 'AlexIdleAnim' being destroyed
+[2024.01.13-20.05.35:332][425]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.01.13-20.05.35:332][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-20.05.35:958][498]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.13-20.05.35:963][498]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.13-20.05.35:963][498]PIE: New page: PIE session: MainMap (14 янв. 2024 г., 10:05:35)
+[2024.01.13-20.05.36:003][498]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2024.01.13-20.05.36:004][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001678s)
+[2024.01.13-20.05.36:005][498]LogAIModule: Creating AISystem for world MainMap
+[2024.01.13-20.05.36:005][498]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2024.01.13-20.05.36:005][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.002670s)
+[2024.01.13-20.05.36:030][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.01.13-20.05.36:041][498]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.01.13-20.05.36:041][498]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.13-20.05.36:041][498]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.13-20.05.36:041][498]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.13-20.05.36:041][498]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.13-20.05.36:041][498]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.13-20.05.36:041][498]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.13-20.05.36:041][498]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.13-20.05.36:041][498]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.13-20.05.36:041][498]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.13-20.05.36:041][498]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.13-20.05.36:041][498]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.13-20.05.36:042][498]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.13-20.05.36:046][498]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.13-20.05.36:046][498]LogAudioMixer: Display: 1: FrontRight
+[2024.01.13-20.05.36:055][498]LogAudioMixer: Display: Using Audio Device Динамики (2- fifine Headset)
+[2024.01.13-20.05.36:055][498]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.13-20.05.36:055][498]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.13-20.05.36:055][498]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.13-20.05.36:055][498]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.13-20.05.36:055][498]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.13-20.05.36:055][498]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.13-20.05.36:056][498]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.13-20.05.36:056][498]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.13-20.05.36:056][498]LogInit: FAudioDevice initialized.
+[2024.01.13-20.05.36:056][498]LogAudio: Display: Audio Device (ID: 14) registered with world 'MainMap'.
+[2024.01.13-20.05.36:064][498]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2024.01.13-20.05.36:069][498]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2024.01.14-03.05.36
+[2024.01.13-20.05.36:069][498]LogWorld: Bringing up level for play took: 0.005319
+[2024.01.13-20.05.36:070][498]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2024.01.13-20.05.36:077][498]PIE: Server logged in
+[2024.01.13-20.05.36:077][498]PIE: Play in editor total start time 0,115 seconds.
+[2024.01.13-20.05.51:503][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.13-20.05.51:503][342]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2024.01.13-20.05.51:504][342]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.13-20.05.51:505][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-20.05.51:513][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.13-20.05.51:521][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-20.05.51:533][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.13-20.05.51:533][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.13-20.05.51:534][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.13-20.05.51:539][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.01.13-20.05.51:566][343]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.01.13-20.05.52:620][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Course/DormCourseWork/DormPlatformer/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.13-20.05.52:634][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.01.13-20.05.52:642][464]LogSavePackage: Moving 'E:/Course/DormCourseWork/DormPlatformer/Saved/MainMapC838176C48AB9B8F0949F4971E835DE9.tmp' to 'E:/Course/DormCourseWork/DormPlatformer/Content/MainMap.umap'
+[2024.01.13-20.05.52:648][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap_BuiltData" FILE="E:/Course/DormCourseWork/DormPlatformer/Content/MainMap_BuiltData.uasset" SILENT=true
+[2024.01.13-20.05.52:648][464]LogSavePackage: Moving 'E:/Course/DormCourseWork/DormPlatformer/Saved/MainMap_BuiltData893DCE664048833D2AEE7DAD0F982044.tmp' to 'E:/Course/DormCourseWork/DormPlatformer/Content/MainMap_BuiltData.uasset'
+[2024.01.13-20.05.52:657][464]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.13-20.05.52:657][464]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MainMap_BuiltData.MainMap_BuiltData
+[2024.01.13-20.05.52:657][464]LogContentValidation: Display: Validating World /Game/MainMap.MainMap
